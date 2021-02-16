@@ -1,3 +1,1 @@
 theme: jekyll-theme-slate
-title: Chris Baldwin's Personal Github
-description: I am currently working on a Chisel RISC-V Serial Core with plans to create an out of order design in the future. I have open-sourced my senior design code which turns a CC1310 into a SPI slave device with drivers for Arduino IDE. This can be ported to esp32, teensy, or any Arduino IDE compatible board! I also have some personal python projects like a directory copy program to make keeping file backups easier across drives. Feel free to reachout about any of my public or private projects for help!
