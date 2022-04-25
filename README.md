@@ -23,3 +23,4 @@
 
 
 Please feel free to ask me reachout and discuss any of my current or past projects!
+cgb2@illinois.edu
